@@ -1101,9 +1101,6 @@ http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/110698.m3u8
 http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/110700.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/28/CpDaIR.jpg",SuperSport Laliga 
 http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/110699.m3u8
-
-
-
 #EXTINF:-1 group-title="SPORTS 2"  tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 group-title="SPORTS 2"  tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 2
@@ -1114,8 +1111,6 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="SPORTS 2"  tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ct5yXf.jpg",Tennis Channel 
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtO7rg.jpg",One Golf
