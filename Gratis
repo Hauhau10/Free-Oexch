@@ -989,7 +989,7 @@ https://cloudserver.server-cdn-streaming.com/live-player/45/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/46/live.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", SPOTV 1
-https://smart-tv.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", SPOTV
 https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", SPOTV 2
